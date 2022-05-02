@@ -1,0 +1,28 @@
+.primary-button-container {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.primary-button-button {
+  color: var(--dl-color-gray-white);
+  width: 498px;
+  height: 111px;
+  font-size: 60;
+  align-self: center;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Inter;
+  font-weight: 600;
+  padding-top: 12px;
+  border-width: 0px;
+  padding-left: 32px;
+  border-radius: var(--dl-radius-radius-radius6);
+  padding-right: 32px;
+  padding-bottom: 12px;
+  text-transform: none;
+  text-decoration: none;
+  background-color: var(--dl-color-purple-default);
+}

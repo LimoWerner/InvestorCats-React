@@ -41,7 +41,7 @@ const Home = (props) => {
             </svg>
           </div>
           <a
-            href="https://discord.com"
+            href="https://Discord.gg/2bFjqB5dSc"
             target="_blank"
             rel="noreferrer noopener"
             className="home-link"
@@ -53,7 +53,7 @@ const Home = (props) => {
             />
           </a>
           <a
-            href="https://twitter.com/"
+            href="https://twitter.com/InvestorCatClub"
             target="_blank"
             rel="noreferrer noopener"
             className="home-link01"
@@ -294,7 +294,7 @@ const Home = (props) => {
                 ></TestimonialsCard>
               </a>
               <a
-                href="https://discord.com/"
+                href="https://Discord.gg/2bFjqB5dSc"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="home-link10"
@@ -326,7 +326,7 @@ const Home = (props) => {
           <div className="home-container11">
             <div className="home-container12">
               <a
-                href="https://reddit.com/r/wallstreetbets"
+                href="https://twitter.com/PouringKitty"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="home-link12"
@@ -392,7 +392,7 @@ const Home = (props) => {
             </span>
           </span>
           <a
-            href="https://discord.com/"
+            href="https://Discord.gg/2bFjqB5dSc"
             target="_blank"
             rel="noreferrer noopener"
             className="home-link15"
